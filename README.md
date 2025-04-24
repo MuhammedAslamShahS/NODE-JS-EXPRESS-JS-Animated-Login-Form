@@ -14,14 +14,6 @@ A simple and stylish login form built using Node.js, Express.js, and some cool C
 
 ## Installation
 
-Install dependencies:
-
-cd NODE-JS-EXPRESS-JS-Animated-Login-Form
-npm install
-npm run dev
-Access the app:
-Go to http://localhost:3001 in your browser to see the login form in action.
-
 ### Clone the repository:
 ```bash
 git clone https://github.com/MuhammedAslamShahS/NODE-JS-EXPRESS-JS-Animated-Login-Form.git
