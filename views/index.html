@@ -9,16 +9,17 @@
 <body>
     
     <div class="login hide-login">
-        <form class="login-container hide-form" method="POST" action="login">
+        <form class="login-container hide-form" action="login" method="POST" >
            <img src="https://t3.ftcdn.net/jpg/08/10/99/18/360_F_810991814_3xbCYGpMergd8ssfFJpNjORG4JbziXyW.jpg" alt="" />
            <div class="input-container hide-section">
               <p><input type="email" placeholder="Email" name="email" /></p>
               <p><input type="password" placeholder="Password" name="password" /></p>
-              <p><input type="submit" value="Log in" /></p>
+              <p><input type="submit" id="submitBtn" value="Log in" /></p>
            </div>
         </form>
      </div>
 
     <script src="js/animate.js"></script>
+    <script src="js/validationHandleing.js"></script>
 </body>
 </html>

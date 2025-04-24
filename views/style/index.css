@@ -122,4 +122,6 @@ img {
     border-radius: 50%;
 }
 
-
+#submitBtn:hover{
+    cursor: pointer;
+}
