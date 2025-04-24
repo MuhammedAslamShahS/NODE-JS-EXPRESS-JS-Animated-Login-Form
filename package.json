@@ -1,0 +1,27 @@
+{
+  "name": "node-js-express-js-animated-login-form",
+  "version": "1.0.0",
+  "description": "NODE JS EXPRESS JS Animated Login Form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammedAslamShahS/NODE-JS-EXPRESS-JS-Animated-Login-Form.git"
+  },
+  "author": "Muhammed aslam Shah S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuhammedAslamShahS/NODE-JS-EXPRESS-JS-Animated-Login-Form/issues"
+  },
+  "homepage": "https://github.com/MuhammedAslamShahS/NODE-JS-EXPRESS-JS-Animated-Login-Form#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
