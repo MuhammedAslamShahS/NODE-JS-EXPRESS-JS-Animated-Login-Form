@@ -1,8 +1,6 @@
 # NODE-JS-EXPRESS-JS-Animated-Login-Form
 NODE JS EXPRESS JS Animated Login Form
 
-# Node JS Express JS Animated Login Form
-
 A simple and stylish login form built using Node.js, Express.js, and some cool CSS animations. The form validates user input and interacts with a server to simulate user login.
 
 ## Features
